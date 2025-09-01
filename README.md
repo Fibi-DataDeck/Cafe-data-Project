@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project, based on the Cafe Sales Dataset focused on extensive cleaning and transforming before meaningful analysis and visualizations could be made. The source of the dataset is "dirty_cafe_sales.csv", and the clean version is 
+This project, based on the Cafe Sales Dataset focused on extensive cleaning and transforming before meaningful analysis and visualizations could be made. The source of the dataset is "dirty_cafe_sales.csv", and the clean version is "cafe_cleaned".
 
 ## Project Objective
 The goal of this project was to transform the raw and dirty dataset into a clean and usable dataset for analysis. From which, interactive Power BI dashboards can be build to identify data quality gaos and sales insights.
